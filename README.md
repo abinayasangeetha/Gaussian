@@ -48,7 +48,7 @@ for i in range(n):
 
 
 ## Output:
-![Gaussian elimination](https://github.com/abinayasangeetha/Gaussian/assets/119393675/758480be-c7bc-42d4-b5a2-89a262629d8b)
+![Gaussian elimination](https://github.com/abinayasangeetha/Gaussian/assets/119393675/c07f4fc6-8d27-48b8-b4aa-ffc0f0ea419e)
 
 
 
